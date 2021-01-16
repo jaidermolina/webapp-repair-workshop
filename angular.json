@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "webapp-repair-workshop"
+  "defaultProject": "webapp-repair-workshop",
+  "cli": {
+    "analytics": "848f3b19-c3c2-467c-969f-b18bed799e65"
+  }
 }
